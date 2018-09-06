@@ -1,1 +1,2 @@
-# Projects Completed during second and third semesters at university
+# Programming projects completed at universtiy
+
