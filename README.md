@@ -1,2 +1,1 @@
-# Gomoku_MCTS
-Implementation of Monte Carlo Tree Search (MCTS) on Gomoku
+# Projects Completed during second and third semesters at university
